@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_cherry"
+        android:icon="@drawable/cherry"
+        android:title="Cherry" />
+    <item
+        android:id="@+id/nav_culi"
+        android:icon="@drawable/culi"
+        android:title="Culi" />
+    <item
+        android:id="@+id/nav_moka"
+        android:icon="@drawable/moka"
+        android:title="Moka" />
+</menu>
